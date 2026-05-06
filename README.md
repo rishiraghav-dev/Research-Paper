@@ -1,7 +1,8 @@
-# 📄 Project Information
+# Project Information
 
-# Project Title
-A Multi-Modal AI-Based Health Intelligence Framework for Integrated Disease Risk Assessment and Lifestyle Analysis
+# Heart Disease Prediction System
+
+# Research Paper: A Multi-Modal AI-Based Health Intelligence Framework for Integrated Disease Risk Assessment and Lifestyle Analysis
 
 Team Members:
 2210992162: Rishi Raghav Singh
