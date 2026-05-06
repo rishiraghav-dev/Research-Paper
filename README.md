@@ -1,10 +1,23 @@
-# ❤️ Heart Disease Prediction System
+# 📄 Project Information
 
-A complete **Machine Learning–based Heart Disease Prediction application** built using **FastAPI** for the backend and **Streamlit** for the frontend.  
-The project predicts the likelihood of heart disease based on patient health parameters and provides an easy-to-use web interface.
+# Project Title
+A Multi-Modal AI-Based Health Intelligence Framework for Integrated Disease Risk Assessment and Lifestyle Analysis
 
----
+Team Members:
+2210992162: Rishi Raghav Singh
+2210992176: Rohan Singh
 
+#📌 Project Type: Research Project
+
+This project was developed as part of a research and implementation-based healthcare AI system using Machine Learning, FastAPI, and Streamlit.
+
+The team worked on:
+- Machine Learning model development
+- Backend API integration
+- Streamlit frontend design
+- Data preprocessing
+- Report and research documentation
+  
 ## 📌 Project Overview
 
 Heart disease is one of the leading causes of death worldwide. This project helps in **early risk assessment** by using trained Machine Learning models to predict whether a person is likely to have heart disease based on clinical and lifestyle-related parameters.
@@ -99,7 +112,7 @@ PROJECT
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/heart-disease-prediction.git
+git clone https://github.com/rishiraghav-dev/heart-disease-prediction.git
 cd heart-disease-prediction
 
 2️⃣ Create Virtual Environment
