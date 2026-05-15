@@ -1,6 +1,6 @@
 # Project Information
 
-# Heart Disease Prediction System
+# Health Intelligence Framework
 
 # Research Paper: A Multi-Modal AI-Based Health Intelligence Framework for Integrated Disease Risk Assessment and Lifestyle Analysis
 
